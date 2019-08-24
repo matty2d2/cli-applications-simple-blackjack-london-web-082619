@@ -51,7 +51,7 @@ end
 #####################################################
 # get every test to pass before coding runner below #
 #####################################################
-
+=begin
 def runner
   welcome
   card_total = initial_round
@@ -63,4 +63,4 @@ def runner
   
   end_game(card_total)
 end
-    
+=end
